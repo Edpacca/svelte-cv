@@ -23,7 +23,7 @@
 </script>
 
 <div>
-	<!-- <button on:click={switchPage}>next page</button> -->
+	<button on:click={switchPage}>next page</button>
 	<button class="pdf-button" on:click={generatePdf}>PDF</button>
 </div>
 <main>
